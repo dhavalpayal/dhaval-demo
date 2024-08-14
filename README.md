@@ -1,2 +1,3 @@
 # dhaval-demo
-this is my first project.
+This is my first project.
+This is demo project.
